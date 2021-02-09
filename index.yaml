@@ -1,0 +1,37 @@
+apiVersion: v1
+entries:
+  stash:
+  - apiVersion: v1
+    appVersion: v0.11.10
+    created: "2021-02-09T23:03:36.968906362Z"
+    description: Stash by AppsCode - Backup your Kubernetes Volumes
+    digest: 2839de25b634979fefa9db1921659f1d3ea39d93c54832f4dc68b63b11926f75
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash
+    sources:
+    - https://github.com/stashed
+    urls:
+    - https://github.com/funkypenguin/installer/releases/download/stash-v0.11.10/stash-v0.11.10.tgz
+    version: v0.11.10
+  stash-enterprise:
+  - apiVersion: v1
+    appVersion: v0.11.10
+    created: "2021-02-09T23:03:36.872646724Z"
+    description: Stash Enterprise by AppsCode - Enterprise features for Stash
+    digest: d602d32ee6ff2a443fb48f7f562338e7329ef7ca7a8235bc58cd81930b0b8faa
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    urls:
+    - https://github.com/funkypenguin/installer/releases/download/stash-enterprise-v0.11.10/stash-enterprise-v0.11.10.tgz
+    version: v0.11.10
+generated: "2021-02-09T23:03:36.755593517Z"
